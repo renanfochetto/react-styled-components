@@ -2,6 +2,12 @@
 
 Desenvolvido durante o curso básico de  estilização de componentes com Styled Componentes, na Escola de Tecnologia Alura como parte da formação em React.
 
+## Principais Tópicos
+
+- `Utilize styled-components para criar componentes estilizados`
+- `Projete e implemente componentes React para exibir imagens e legendas`
+- `Estilos personalizados e acessíveis para uma galeria de fotos`
+
 ## ✔️ Técnicas e tecnologias utilizadas
 
 - `React`
